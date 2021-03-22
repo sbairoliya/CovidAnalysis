@@ -1,0 +1,2 @@
+# CovidAnalysis
+COVID – 19 is a contagious disease caused by the virus SARS-CoV-2. The virus is currently responsible for about 1.5 million deaths globally. It has affected 191 countries across the world. In the United States, the virus is responsible for nearly 270,000 deaths with the number expected to grow at a higher rate in the coming months. Through this project, I try to analyze some statistics across the various states in the country and try to answer a few questions.
